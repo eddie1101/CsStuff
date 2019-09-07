@@ -15,6 +15,7 @@ def bubbleSort(arr):
                 arr[x + 1] = tem
         if flag:
             break
+    return arr
 
 
 def main():

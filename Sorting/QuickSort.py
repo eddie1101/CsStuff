@@ -21,6 +21,10 @@ def quickSort(arr, low, high):
         quickSort(arr, low, pi - 1)
         quickSort(arr, pi + 1, high)
 
+def quickSortCaller(arr, low, high):
+    quickSort(arr, low, high)
+    return arr
+
 
 def main():
 

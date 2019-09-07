@@ -32,6 +32,7 @@ def radixSort(arr):
     while max1 / exp > 0:
         countingSort(arr, exp)
         exp *= 10
+    return arr
 
 
 def main():
