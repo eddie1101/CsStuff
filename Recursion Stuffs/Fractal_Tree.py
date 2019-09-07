@@ -3,6 +3,8 @@ import turtle
 # COLORS = ('Red', 'Green', 'Brown', 'Orange', 'Blue', 'Indigo', 'Violet')
 COLORS = ('Brown', 'Green')
 
+div = 3
+
 def init():
     turtle.tracer(0,0)
     turtle.pensize(3)
@@ -28,11 +30,7 @@ def draw_tree(length, depth):
 
 def main():
     init()
-    length = int(input('Length?\n'))
-    layers = int(input('Layers?\n'))
-    global div
-    div = (800/ length**(layers/10))
-    draw_tree(length, layers)
+    draw_tree(300, 12)
     turtle.update()
     turtle.mainloop()
 
