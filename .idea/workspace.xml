@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="683ad3e6-c037-4e0a-8793-f9c748c479b8" name="Default Changelist" comment="Added main file controller to tie together all the sorting mumbo jumbo">
+    <list default="true" id="683ad3e6-c037-4e0a-8793-f9c748c479b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursion Stuffs/Fractal_Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion Stuffs/Fractal_Tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Labs/csapx-20191-lab2-squares-erg5995" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567828986644</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Made fractal tree not suck">
+      <created>1567829731220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567829731220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +207,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Removed test file because it was never meant to be here." />
     <MESSAGE value="Added main file controller to tie together all the sorting mumbo jumbo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added main file controller to tie together all the sorting mumbo jumbo" />
+    <MESSAGE value="Made fractal tree not suck" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made fractal tree not suck" />
   </component>
 </project>
